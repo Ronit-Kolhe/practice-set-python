@@ -1,0 +1,10 @@
+set1  =  {2,3,1,44,54,44}
+set2 = {2,3,4,55,67,8}
+c = set1.union(set2)# it will return values of both sets, no duplicates
+d = set1.intersection(set2) #it will return only the values which exists in both set1 and set2
+e = set1.difference(set2)
+
+print(c) 
+print(d)
+
+print(e)
