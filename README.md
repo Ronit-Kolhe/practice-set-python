@@ -1,1 +1,1 @@
-Practicing Python fundamentals 
+Practicing Python fundamentals  
